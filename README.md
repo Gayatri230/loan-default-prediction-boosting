@@ -1,8 +1,8 @@
 ->Project Title
 
-Loan Default Prediction using Bagging and Boosting Techniques
+Loan Default Prediction using Boosting Techniques
 
-* Project Description (PASTE THIS)
+* Project Description 
 
 In this project, I built a machine learning model to predict loan approval outcomes using real-world financial data.
 
